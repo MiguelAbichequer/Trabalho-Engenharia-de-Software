@@ -17,9 +17,11 @@ O cliente afirmou que em seu trabalho como monitor ele é muitas vezes surpreend
 
 ## Segunda pergunta: se você criasse um aplicativo para auxiliar seus alunos, como ele seria?
 
-Ao responder essa pergunta, o cliente vislumbrou um aplicativo simples, contendo uma interface intuitiva e de fácil uso. Ele reiterou que a atualização do sistema deve ocorrer em tempo real, possibilitando que o aluno verifique se o monitor pode atendê-lo naquele exato momento, sem a obrigação de ter que contatá-lo. Para ele, no design de interface, a informação de disponibilidade deveria estar destacada, enquanto a tabela de horários e as informações do monitor seriam exibidas mediante a necessidade do usuário.
+Ao responder essa pergunta, o cliente vislumbrou um aplicativo simples, contendo uma interface intuitiva e de fácil uso. Ele reiterou que a atualização do sistema deve ocorrer em tempo real, possibilitando que o aluno verifique se o monitor pode atendê-lo naquele exato momento, sem a obrigação de contatá-lo. Para ele, no design de interface, a informação de disponibilidade deveria estar destacada, enquanto a tabela de horários e as informações do monitor seriam exibidas mediante a necessidade do usuário.
 
 ## Terceira pergunta: se você criasse um aplicativo para auxiliá-lo, como ele seria?
 
-O cliente retomou alguns problemas já mencionados. Afirmou que gostaria de saber antecipadamente o tema a ser abordado na aula de monitoria e que a marcação dos horários poderia gerar uma agenda que o auxilie em sua organização.
+O cliente retomou alguns problemas já mencionados, propondo algumas soluções. Para evitar horários conflitantes, propôs a criação de software capaz de gerenciar os horários de atendimento para o monitor, ofertando aos alunos aqueles ainda disponíveis. Aprofundando-se nessa funcionalidade, o cliente exigiu que o monitor possa manipular os horários requisitados, unindo e remarcando atendimentos. 
+Afirmou que gostaria de saber antecipadamente o tema a ser abordado na aula de monitoria, informação que para ele deve sempre ser preenchida ao solicitar um atendimento. Além disso, gostaria de saber explicitamente o formato de reunião desejado pelo aluno: online ou presencial.
+Suas necessidades, segundo ele, podem ser supridas com um aplicativo simples, mas que foque no essencial.
 
