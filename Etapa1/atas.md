@@ -2,7 +2,7 @@
 
 ## Primeira reunião com o cliente:
 
-Nosso cliente é o Breno, um monitor do curso de Matemática. Atualmente, atua como monitor PAD, função que abrange tanto o bacharelado quanto a licenciatura.
+Nosso cliente é o Breno, monitor do curso de Matemática. Atualmente, atua como monitor PAD, função que abrange tanto o bacharelado quanto a licenciatura.
 
 ### Primeira pergunta: quais problemas você tem enfrentado na sua atuação como monitor?
 
