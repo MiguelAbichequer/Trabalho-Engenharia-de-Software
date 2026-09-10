@@ -21,7 +21,7 @@ Ao responder essa pergunta, o cliente vislumbrou um aplicativo simples, contendo
 
 ## Terceira pergunta: se você criasse um aplicativo para auxiliá-lo, como ele seria?
 
-O cliente retomou alguns problemas já mencionados, propondo algumas soluções. Para evitar horários conflitantes, propôs a criação de software capaz de gerenciar os horários de atendimento para o monitor, ofertando aos alunos aqueles ainda disponíveis. Aprofundando-se nessa funcionalidade, o cliente exigiu que o monitor possa manipular os horários requisitados, unindo e remarcando atendimentos. 
+O cliente retomou alguns problemas já mencionados, propondo algumas soluções. Para evitar horários conflitantes, propôs a criação de software capaz de gerenciar os horários de atendimento para o monitor, ofertando aos alunos aqueles ainda disponíveis. Aprofundando-se nessa funcionalidade, o cliente exigiu que o monitor possa manipular os horários requisitados, unindo e remarcando atendimentos. De alguma forma, o sistema deve dividir os intervalos de aula, garantindo o maior número de atendimentos possível, segundo as preferências do monitor.
 Afirmou que gostaria de saber antecipadamente o tema a ser abordado na aula de monitoria, informação que para ele deve sempre ser preenchida ao solicitar um atendimento. Além disso, gostaria de saber explicitamente o formato de reunião desejado pelo aluno: online ou presencial.
 Suas necessidades, segundo ele, podem ser supridas com um aplicativo simples, mas que foque no essencial.
 
